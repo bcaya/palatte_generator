@@ -27,7 +27,13 @@ align-items:center;
   grid-row-end: 1;
   grid-column:1/-1;
 }
+h1{
+  margin-bottom:10px;
+}
 
+p {
+  font-style: italic;
+}
 
 .column{
   display:grid;
